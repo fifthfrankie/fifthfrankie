@@ -1,4 +1,4 @@
-![👋 Hi, my name is Frankie Seabrook]([./fs-bayc.png))
+![👋 Hi, my name is Frankie Seabrook](./fs-bayc.png))
 
 <div id="toc">
   <ul align="center" style="list-style: none">
