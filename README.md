@@ -1,5 +1,3 @@
-# Frankie
-
 Data + AI at Nationwide Building Society.
 
 I work with data & AI, and enjoy building things.
